@@ -1,0 +1,9 @@
+<map id="http_req" name="http_req">
+<area shape="rect" id="node1" title=" " alt="" coords="5,600,81,627"/>
+<area shape="rect" id="node2" href="$structmap.html" title=" " alt="" coords="70,511,121,537"/>
+<area shape="rect" id="node3" href="$structseq.html" title=" " alt="" coords="81,407,126,433"/>
+<area shape="rect" id="node4" href="$structtxt.html" title=" " alt="" coords="82,273,122,300"/>
+<area shape="rect" id="node5" href="$structbuf.html" title=" " alt="" coords="62,184,105,211"/>
+<area shape="rect" id="node6" href="$structmem.html" title=" " alt="" coords="15,95,71,121"/>
+<area shape="rect" id="node7" href="$structptr.html" title=" " alt="" coords="23,5,63,32"/>
+</map>

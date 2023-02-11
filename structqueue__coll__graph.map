@@ -1,0 +1,10 @@
+<map id="queue" name="queue">
+<area shape="rect" id="node1" title=" " alt="" coords="5,631,68,657"/>
+<area shape="rect" id="node2" href="$structtbl.html" title=" " alt="" coords="17,541,56,568"/>
+<area shape="rect" id="node3" href="$structgrid.html" title=" " alt="" coords="68,452,115,479"/>
+<area shape="rect" id="node4" href="$structseq.html" title=" " alt="" coords="67,363,113,389"/>
+<area shape="rect" id="node5" href="$structtxt.html" title=" " alt="" coords="17,273,57,300"/>
+<area shape="rect" id="node6" href="$structbuf.html" title=" " alt="" coords="15,184,58,211"/>
+<area shape="rect" id="node7" href="$structmem.html" title=" " alt="" coords="9,95,65,121"/>
+<area shape="rect" id="node8" href="$structptr.html" title=" " alt="" coords="17,5,57,32"/>
+</map>
